@@ -70,13 +70,13 @@ export default function Home() {
             fontSize: "64px", 
             fontWeight: "800", 
             marginBottom: "25px",
-            background: "linear-gradient(135deg, #ffffff 0%, #60a5fa 50%, #a78bfa 100%)",
+            background: "#000",
             WebkitBackgroundClip: "text",
             WebkitTextFillColor: "transparent",
             backgroundClip: "text",
             lineHeight: "1.2",
           }}>
-            Physical AI & Humanoid Robotics
+            AI & Humanoid Robotics
           </h1>
           
           <p style={{ 

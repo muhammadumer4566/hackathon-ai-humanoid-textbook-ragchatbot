@@ -1,4 +1,4 @@
-# Tasks: Physical AI & Humanoid Robotics Textbook Project
+# Tasks: AI & Humanoid Robotics Textbook Project
 
 **Feature Branch**: `1-textbook-project-structure`
 **Created**: 2025-11-28

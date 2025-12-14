@@ -1,11 +1,11 @@
 ---
-title: "Physical AI & Humanoid Robotics Textbook"
+title: "AI & Humanoid Robotics Textbook"
 description: "A Docusaurus-powered curriculum for Physical AI, ROS 2, simulation, VLA systems and humanoid robotics"
 ---
 
-# Physical AI & Humanoid Robotics Textbook
+# AI & Humanoid Robotics Textbook
 
-Welcome to the *Physical AI & Humanoid Robotics* textbook — a practical, project-driven course designed to teach you how to design, simulate, and control humanoid robots using modern AI techniques.
+Welcome to the *AI & Humanoid Robotics* textbook — a practical, project-driven course designed to teach you how to design, simulate, and control humanoid robots using modern AI techniques.
 
 This textbook covers:
 - ROS 2 (Robotic Nervous System)

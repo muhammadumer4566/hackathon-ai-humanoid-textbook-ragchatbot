@@ -1,6 +1,6 @@
 ### User Story 1 - Initialize Textbook Project (Priority: P1)
 
-A project maintainer wants to quickly set up the foundational structure for the "Physical AI & Humanoid Robotics" textbook, ensuring it follows Docusaurus v3 standards, includes necessary deployment configurations, and has dedicated areas for content, specifications, assets, and bonus features.
+A project maintainer wants to quickly set up the foundational structure for the "AI & Humanoid Robotics" textbook, ensuring it follows Docusaurus v3 standards, includes necessary deployment configurations, and has dedicated areas for content, specifications, assets, and bonus features.
 
 **Why this priority**: This is the foundational step for any further development or content creation for the textbook. Without a proper structure, no other work can proceed efficiently.
 

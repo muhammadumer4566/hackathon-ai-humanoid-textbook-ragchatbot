@@ -1,4 +1,4 @@
-# Specification Quality Checklist: Physical AI & Humanoid Robotics Textbook Project Structure
+# Specification Quality Checklist: AI & Humanoid Robotics Textbook Project Structure
 
 **Purpose**: Validate specification completeness and quality before proceeding to planning
 **Created**: 2025-11-28

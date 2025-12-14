@@ -1,4 +1,4 @@
-# Implementation Plan: Physical AI & Humanoid Robotics Textbook Project
+# Implementation Plan: AI & Humanoid Robotics Textbook Project
 
 **Feature Branch**: `1-textbook-project-structure`
 **Created**: 2025-11-28
@@ -6,7 +6,7 @@
 
 ## Technical Context *(mandatory)*
 
-The project will develop an interactive online textbook for "Physical AI & Humanoid Robotics" using Docusaurus v3. It will integrate a RAG (Retrieval Augmented Generation) backend, a personalization/authentication layer, and a translation module. The entire system will adhere to MIT license, WCAG accessibility standards, and exclusively use free-tier services with a strong focus on simulation environments (no real hardware interactions).
+The project will develop an interactive online textbook for "AI & Humanoid Robotics" using Docusaurus v3. It will integrate a RAG (Retrieval Augmented Generation) backend, a personalization/authentication layer, and a translation module. The entire system will adhere to MIT license, WCAG accessibility standards, and exclusively use free-tier services with a strong focus on simulation environments (no real hardware interactions).
 
 ## Constitution Check *(mandatory)*
 
@@ -36,7 +36,7 @@ High-level components:
 
 The textbook will have 10+ chapters organized into 4 main modules, plus an introduction and conclusion:
 
--   **Introduction**: Overview of Physical AI & Humanoid Robotics.
+-   **Introduction**: Overview of AI & Humanoid Robotics.
 -   **Module 1: ROS 2 Fundamentals**: (e.g., Chapters 1-3)
 -   **Module 2: Simulation with Gazebo/Unity**: (e.g., Chapters 4-6)
 -   **Module 3: Advanced Robotics with NVIDIA Isaac**: (e.g., Chapters 7-8)
