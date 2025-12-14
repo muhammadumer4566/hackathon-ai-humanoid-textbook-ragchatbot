@@ -4,7 +4,7 @@ import Link from "@docusaurus/Link";
 export default function Home() {
   return (
     <Layout
-      title="Physical AI & Humanoid Robotics Textbook"
+      title="AI & Humanoid Robotics Textbook"
       description="Complete AI-Native textbook for mastering robotics, humanoids, ROS2, VLA systems, and digital twins."
     >
       {/* HERO SECTION */}

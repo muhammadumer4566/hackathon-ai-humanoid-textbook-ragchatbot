@@ -57,14 +57,6 @@
     "message": "View all tags",
     "description": "The label of the link targeting the tag list page"
   },
-  "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode",
-    "description": "The name for the system color mode"
-  },
-  "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode",
-    "description": "The name for the light color mode"
-  },
   "theme.colorToggle.ariaLabel.mode.dark": {
     "message": "dark mode",
     "description": "The name for the dark color mode"

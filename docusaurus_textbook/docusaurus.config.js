@@ -2,21 +2,15 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Physical AI & Humanoid Robotics Textbook',
-  tagline: 'Learning Physical AI and Robotics',
-  favicon: 'img/favicon.ico',
+  title: 'AI & Humanoid Robotics Textbook',
+  tagline: 'Learning AI and Robotics',
+  favicon: 'img/ph-ai-logo.png',
 
   // Set the production url of your site here
-  url: 'https://hackathon-ai-humanoid-textbook-ragc.vercel.app/',
+  url: 'https://hackathon-ai-humanoid-textbook-ragchatbot.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'muhammadumer', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-humanoid-robotics-textbook', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -59,7 +53,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/ph-ai-logo.png',
       navbar: {
-        title: 'Physical AI & Humanoid Robotics Textbook',
+        title: 'AI & Humanoid Robotics',
         logo: {
           alt: 'My Site Logo',
           src: 'img/ph-ai-logo.png',
@@ -89,18 +83,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/docs/introduction/intro',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with by Muhammad Umer.`,
+        copyright: `AI & Humanoid Robotics Textbook, Built with by Muhammad Umer.`,
       },
       prism: {
         theme: prismThemes.github,
