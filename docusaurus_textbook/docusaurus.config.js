@@ -1,4 +1,4 @@
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -7,14 +7,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://physicalhumanoidaitextbook.vercel.app',
+  url: 'https://hackathon-ai-humanoid-textbook-ragc.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'subhankaladi', // Usually your GitHub org/user name.
+  organizationName: 'muhammadumer', // Usually your GitHub org/user name.
   projectName: 'physical-ai-humanoid-robotics-textbook', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -29,7 +29,7 @@ const config = {
     locales: ['en', 'ur'], // Added Urdu locale
   },
 
-  
+
 
   presets: [
     [
@@ -72,23 +72,18 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/subhankaladi',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
             i18n: {
-  defaultLocale: 'en',
-  locales: ['en', 'ur'],
-  localeConfigs: {
-    ur: {
-      label: 'اردو',
-      direction: 'rtl',
-    },
-  },
-},
+              defaultLocale: 'en',
+              locales: ['en', 'ur'],
+              localeConfigs: {
+                ur: {
+                  label: 'اردو',
+                  direction: 'rtl',
+                },
+              },
+            },
           },
         ],
       },
@@ -104,34 +99,8 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Social Profiles',
-            items: [
-              {
-                label: 'Instagram',
-                href: 'https://instagram.com/subhan_kaladi',
-              },
-              {
-                label: 'LinkenIN',
-                href: 'https://www.linkedin.com/in/subhankaladi/',
-              },
-              {
-                label: '(X)Twitter',
-                href: 'https://x.com/subhankaladi15',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/subhankaladi',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Subhan Kaladi.`,
+        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with by Muhammad Umer.`,
       },
       prism: {
         theme: prismThemes.github,
