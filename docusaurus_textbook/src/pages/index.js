@@ -363,7 +363,7 @@ export default function Home() {
               justifyContent: "center",
               marginBottom: "20px",
               fontSize: "28px",
-            }}></div>
+            }}>⚡</div>
             <h3 style={{ fontSize: "24px", fontWeight: "700", marginBottom: "15px", color: "#ffffff" }}>
               AI-First Design
             </h3>
@@ -384,7 +384,7 @@ export default function Home() {
               justifyContent: "center",
               marginBottom: "20px",
               fontSize: "28px",
-            }}></div>
+            }}>🎯</div>
             <h3 style={{ fontSize: "24px", fontWeight: "700", marginBottom: "15px", color: "#ffffff" }}>
               Hands-On Learning
             </h3>
@@ -405,7 +405,7 @@ export default function Home() {
               justifyContent: "center",
               marginBottom: "20px",
               fontSize: "28px",
-            }}></div>
+            }}>🏆</div>
             <h3 style={{ fontSize: "24px", fontWeight: "700", marginBottom: "15px", color: "#ffffff" }}>
               Industry-Inspired
             </h3>
